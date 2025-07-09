@@ -4,7 +4,7 @@
 Weather Now is a responsive React web application that displays current weather information for any city using the OpenWeatherMap API.
 
 ## 🔗 Live Demo
-[👉 View Deployed App on Netlify](https://your-netlify-url.netlify.app)
+[👉 View Deployed App on Netlify](https://weather-in-a-second.netlify.app/)
 
 ## 🛠️ Built With
 - ⚛️ React (Vite)
